@@ -87,7 +87,6 @@ a:hover {
 }
 /*creates a container for the image description*/
 #image-desc-container {
-    width: 100%;
     padding-top: 5%;
 }
 
